@@ -1,3 +1,7 @@
-# My Awesome Book
+# 项目规范
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## 目录
+* [文件顶部规范](#rule)
+
+#### <a name="rule">文件顶部规范</a>
+在组件文件内顶部，应以以下顺序来加载`公共三方框架 > 公共三方工具 > 公共二方库 > 公共二方工具 > 公共一方依赖 > 私有依赖 > 全局变量定义`.
