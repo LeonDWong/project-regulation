@@ -4,6 +4,8 @@
 
 * [文件顶部规范](#rule)
 * [请求与处理规范](#request)
+* [文档注释规范](#doc)
+* [分支规范](#branch)
 
 #### <a name="rule">文件顶部规范</a>
 
@@ -59,3 +61,9 @@ export function fetchList(params) {
 }
 ```
 
+#### <a name="doc">文档注释规范</a>
+请参考[jsDoc](http://usejsdoc.org/index.html)
+
+#### <a name="branch">分支规范</a>
+目前的建议是：**feature/{项目名}\_{年月日}\_{时间戳}**
+详情请戳[关于分支污染的一次总结](https://wiki.sankuai.com/pages/viewpage.action?pageId=1016862517)
