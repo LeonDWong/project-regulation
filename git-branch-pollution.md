@@ -30,6 +30,6 @@ A:  虽然可通过 Plus 过滤条件定位 commit 并做 reset 操作，更推
 
 # 推荐工具
 
-  
+[regular-branch-creator](https://github.com/LeonDWong/regular-branch-creator)
 
 
